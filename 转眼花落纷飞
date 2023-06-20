@@ -1,7 +1,0 @@
-echo "#三分" >> README.md 
-git init 
-git add README.md 
-git commit -m "first commit" 
-git branch -M Surge 
-git remote add origin https://github.com/SanFenAi/SanFen.git
- git push -你起源浪涌
