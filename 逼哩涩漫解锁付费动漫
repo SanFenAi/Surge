@@ -1,0 +1,13 @@
+#!name=逼哩涩漫解锁付费动漫
+#!desc=转眼花落纷飞
+#软件版本:1.0.11+109
+#脚本作者:Hausd0rff
+#更新时间:2023-04-21
+#使用声明：️此脚本仅供学习与交流，
+
+[Script]
+逼哩涩漫解锁付费动漫
+在线追漫趣味满分','138304CugFsN','在社区任意发布帖子，分享您的涩涩生活！','268239mLEBcD','22oXswyR','20XZlJOS','image/hf/2/gi/1x6/be691f4b7fb99348ef2a649d8f2f0f79.png','812856eaVyFO','1144209Axkaho','vipExpire','readTicketCount','avatarUrl','isBought','9236421LVTJTa','永久免费观看全站动漫+原创COS视频','balance','/api/app/user/info','image/t/wj/2lx/vn/21b021020e079eff8b767c2573c316e4.jpg','image/o1/2ts/70/2x4/56eda224b51f90a77c1d51b8b089cae0.jpg','data','永久免费解锁所有楼凤约炮帖子','动漫/原创视频免费看'];_0x467a=function(){return _0x52aa38;};return _0x467a();} = type=http-response,pattern=^https?:\/\/.*\/api\/app\/(user\/info|cartoon\/play|photo\/detail),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/BiliCartcoonCrack.js
+
+[MITM]
+hostname= %APPEND% etryj.avjfph.com, zhfvd.rjxxqf.com, ryuhf.jmzkwt.com, ovhdo.cjppdp.com
