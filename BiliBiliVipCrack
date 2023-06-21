@@ -1,0 +1,12 @@
+#!name=哔哩哔哩魔改
+#!desc=转眼花落纷飞
+#软件版本:6.90.0
+#更新时间:2022-12-1
+#使用声明：️此脚本仅供学习与交流，
+
+[Script]
+哔哩哔哩魔改 = type=http-response,pattern=^https?:\/\/ap(i|p)\.bilibili\.com\/x\/(vip|v2|resource)\/(space|account|web|price|top_panel_info|show)(\/|\?)(mine|myinfo|access|vip_center|panel|_bridge|skin\?).*,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/bili_info.js
+哔哩哔哩魔改 = type=http-request,pattern=^https?:\/\/ap(i|p)\.bilibili\.com\/bilibili\.\w{3,9}\..+\/(View|Play(URL|View|Conf|erOnline)|MainList|ViewProgress)$,requires-body=0,max-size=0,script-path=https://raw.githubusercontent.com/ClydeTime/Quantumult/main/Script/BiliBili/BiLiBiLiBVIPCrack.js
+
+[MITM]
+hostname= %APPEND% app.bilibili.com, api.bilibili.com, 124.239.240.*, 120.192.82.*, 101.89.57.*, 218.94.210.*, 218.60.18.*, 240e:b1:9801:206:11:0:0:*
