@@ -15,11 +15,11 @@
 [Panel]
 # Sub_info = script-name=Sub_info,update-interval=3600
 
-Sub_info= script-name=Sub_info2,update-interval=3600
+Sub_info = script-name=Sub_info2,update-interval=3600
 
-Sub_info= script-name=Sub_info3,update-interval=3600
+Sub_info = script-name=Sub_info3,update-interval=3600
 
-Sub_info= script-name=Sub_info4,update-interval=3600
+Sub_info = script-name=Sub_info4,update-interval=3600
 
 [Script]
 # Sub_info = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/getsomecat/GetSomeCats/Surge/modules/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fxvvrkb.lol%2F%3FL2Rvd25sb2FkQ29uZmlnL05vZGVMaXN0LmFzcHg%2FcXg9b3JpZ24mdXJrPTA3ZDcwMGQ1LWVjY2UtNDhhZS1iMDRiLTVlYTAwMzJjNTJkYyZtbT0xNzkxNTImNmMxNTg4NDAwZTA4NDJmNjg5Yzk5NjRlOTVlYQ%3D%3D&reset_day=21&title=Nexitally&icon=externaldrive.fill.badge.icloud=#007aff
