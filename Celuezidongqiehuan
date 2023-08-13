@@ -1,10 +1,10 @@
-#!name=策略自动切换
+#!name=策略优选
 #!desc=转眼花落纷飞
-# 版本：1.10
 # 作者：小白脸
-# 日期：2023.06.10 21:50
+# 版本：2.10
+# 日期：2023.08.10 13:26
 
-# Surge配置参考注释
+Surge配置参考注释
 
 # Apple下载示例↓↓↓ 
 # ----------------------------------------
@@ -13,7 +13,7 @@
 AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,策略优选)),Apple
 
 [Script]
-策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=Apple&policy=DIRECT,Proxy&time=15&minSpeed=20"
+策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=Apple&policy=DIRECT,PROXY,Support&time=15&minSpeed=20"
 
 # ----------------------------------------
 
@@ -28,3 +28,5 @@ AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,策略优选)),Apple
 # • 多策略跳转顺序就是你填的顺序；
 # • 只到速度达标或策略跳转完结束,Return设定的时间后自动跳转默认策略；
 # • 如果所有策略轮询后都未达到监控需求则自动选择记录中最优策略；
+
+# ----------------------------------------
