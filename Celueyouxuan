@@ -8,10 +8,10 @@
 # ----------------------------------------
 
 [Rule]
-AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,策略优选)),Apple
+AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,策略优选)),𝘼𝙥𝙥𝙡𝙚
 
 [Script]
-策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=Apple&policy=DIRECT,Proxy&time=15&minSpeed=20"
+策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=Apple&policy=𝘿𝙞𝙧𝙚𝙘𝙩,𝙋𝙧𝙤𝙭𝙮&time=15&minSpeed=20"
 
 # ----------------------------------------
 
