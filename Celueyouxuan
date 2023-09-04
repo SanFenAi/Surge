@@ -11,7 +11,7 @@
 AND,((DOMAIN,iosapps.itunes.apple.com), (SCRIPT,策略优选)),𝘼𝙥𝙥𝙡𝙚
 
 [Script]
-策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=𝘼𝙥𝙥𝙡𝙚&policy=𝘿𝙞𝙧𝙚𝙘𝙩,𝙋𝙧𝙤𝙭𝙮&time=15&minSpeed=20"
+策略优选 = type=rule,timeout=60,script-path=https://raw.githubusercontent.com/githubdulong/Script/master/speedLimit.js,argument="Return=10min,Group=𝘼𝙥𝙥𝙡𝙚&policy=𝘿𝙞𝙧𝙚𝙘𝙩,🇭🇰 𝙃𝙤𝙣𝙜 𝙆𝙤𝙣𝙜,🇨🇳 𝙏𝙖𝙞𝙬𝙖𝙣,🇸🇬 𝙎𝙞𝙣𝙜𝙖𝙥𝙤𝙧𝙚,🇯🇵 𝙅𝙖𝙥𝙖𝙣&time=15&minSpeed=10"
 
 # ----------------------------------------
 
