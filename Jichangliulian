@@ -33,7 +33,7 @@ Sub_info = script-name=Sub_info2,update-interval=3600
 Sub_info1 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fsb.meslcloud.com%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3Decef428e8298d964bf1d117e19400fab&reset_day=24&title= 𝙈𝙚𝙨𝙡&icon=externaldrive.fill.badge.icloud=#007aff
 
 
-Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fatomlantis.cloud%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8b578c824bc2b2eaa69c6ff3e5868b2b&reset_day=31&title=𝘼𝙩𝙤𝙢𝙡𝙖𝙣𝙩𝙞𝙨&icon=externaldrive.fill.badge.icloud=#007aff
+Sub_info2 = type=generic,timeout=10,script-path=https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Module/Panel/Sub-info/Moore/Sub-info.js,script-update-interval=0,argument=url=https%3A%2F%2Fatomlantis.cloud%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D8b578c824bc2b2eaa69c6ff3e5868b2b&reset_day=14&title=𝘼𝙩𝙤𝙢𝙡𝙖𝙣𝙩𝙞𝙨&icon=externaldrive.fill.badge.icloud=#007aff
 
 
 
